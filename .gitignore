@@ -30,3 +30,9 @@ DerivedData
 # `pod install` in .travis.yml
 #
 # Pods/
+
+# SwiftPM
+.build/
+.swiftpm/
+Packages/
+Package.resolved
